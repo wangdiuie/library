@@ -1,0 +1,73 @@
+.container .image.data-v-c3d8bbfa {
+  margin-top: 70rpx;
+  text-align: center;
+}
+.container .image image.data-v-c3d8bbfa {
+  width: 250rpx;
+  height: 250rpx;
+}
+.container .topfont.data-v-c3d8bbfa {
+  margin-top: 30rpx;
+  height: 120rpx;
+  line-height: 120rpx;
+  font-size: 60rpx;
+  color: #3288C8;
+  text-align: center;
+}
+.container .login.data-v-c3d8bbfa {
+  width: 80%;
+  border-bottom: 1rpx solid #BABEBC;
+  margin: 40rpx auto 0;
+  height: 100rpx;
+  line-height: 100rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.container .login .login_text.data-v-c3d8bbfa {
+  font-size: 38rpx;
+  margin-right: 40rpx;
+  color: #CFCECE;
+}
+.container .login input.data-v-c3d8bbfa {
+  width: 400rpx;
+  font-size: 35rpx;
+}
+.container .login .eye.data-v-c3d8bbfa {
+  margin-left: 20rpx;
+  width: 40rpx;
+}
+.container .login .eye image.data-v-c3d8bbfa {
+  width: 40rpx;
+  height: 40rpx;
+}
+.container .button.data-v-c3d8bbfa {
+  color: #fff;
+  margin: 80rpx auto 0;
+  width: 80%;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  background-color: #3288C8;
+  font-size: 36rpx;
+  line-height: 100rpx;
+  text-align: center;
+  height: 100rpx;
+}
+.container .bottom_text.data-v-c3d8bbfa {
+  margin: 60rpx auto;
+  width: 80%;
+  text-align: center;
+  height: 40rpx;
+  font-size: 30rpx;
+  line-height: 40rpx;
+}
+.container .bottom_text .go.data-v-c3d8bbfa {
+  color: #2AB8ED;
+}
+.container .bottom_text .go.data-v-c3d8bbfa:hover {
+  cursor: pointer;
+}
+
